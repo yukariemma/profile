@@ -41,7 +41,7 @@ a:hover {
 }
 
 .container {
-  width: 800px;   /* This sets the width */
+  width: 600px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
 }
 
@@ -58,10 +58,11 @@ a:hover {
   margin: 0px auto;
 }
 
-/*.name {
+.name {
   color: #834c69;
-  font-size: 18px;
-}*/
+  font-weight: bold;
+  font-size: 25px;
+}
 
 #img-circle {
   border-radius: 50%;
